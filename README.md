@@ -25,6 +25,9 @@ pip install pyforest skimpy scikit-learn plotly pandas matplotlib seaborn
 ### Data
 
 This project assumes you have two CSV files, 'train.csv' and 'test.csv', containing the training and testing data, respectively. These files should have the necessary features and labels for activity recognition.
+- [Train data](https://drive.google.com/file/d/1S5q26WGcAT_gvD5JnKNzkz_jfBlN6Zq4/view?usp=sharing)
+- [Test data](https://drive.google.com/file/d/1SBlpQRPOW9gXMJDTo_ZYyCh7oSsDsnBy/view?usp=drive_link)
+  
 
 ## Project Overview
 
